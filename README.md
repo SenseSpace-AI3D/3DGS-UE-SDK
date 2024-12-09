@@ -51,24 +51,24 @@
   
 - 打开 Unreal 编辑器，确认插件已经被启用，如果没有，请勾选启用<br>
 <br>
-![](./Doc/enable_plugin.png)
+![](./doc/enable_plugin.png)
 
 - 把 3DGS Splat 文件拖放到 Unreal 内容浏览器中，插件会自动创建资产，然后保存<br>
 <br>
-![](./Doc/import.png)
+![](./doc/import.png)
 
 - 把 3DGS 资产从内容浏览器拖放到场景中，稍等片刻，插件会加载渲染 3DGS 场景 <br>
   <br>
-  ![](./Doc/create_actor.png)
+  ![](./doc/create_actor.png)
 
 ## 调色功能
  该功能可以针对模型的色彩平衡进行调整，具体使用方式如：
 - 把场景导入编辑器，并拖入放置到到场景中
 - 选中要进行调色的模型<br>
 <br>
-![](./Doc/palette.png)
+![](./doc/palette.png)
 <br>
-![](./Doc/palette2.png)
+![](./doc/palette2.png)
 
 - 保存场景地图
   
