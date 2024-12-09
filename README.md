@@ -1,4 +1,4 @@
-# 3DGS Unreal Plugin
+# SenseSpace 3DGS Unreal Plugin
 
 # 目录
 
